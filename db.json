@@ -1,0 +1,142 @@
+[
+  {
+    "student_id": 1,
+    "name": "Alice Johnson",
+    "age": 19,
+    "grade": "A",
+    "courses": ["Math", "English", "History"]
+  },
+  {
+    "student_id": 2,
+    "name": "Bob Smith",
+    "age": 20,
+    "grade": "B+",
+    "courses": ["Biology", "Chemistry", "Physics"]
+  },
+  {
+    "student_id": 3,
+    "name": "Charlie Brown",
+    "age": 21,
+    "grade": "A-",
+    "courses": ["Computer Science", "Statistics", "Psychology"]
+  },
+  {
+    "student_id": 4,
+    "name": "Diana Miller",
+    "age": 22,
+    "grade": "B",
+    "courses": ["Economics", "Political Science", "Sociology"]
+  },
+  {
+    "student_id": 5,
+    "name": "Emma Davis",
+    "age": 20,
+    "grade": "B+",
+    "courses": ["Art", "Music", "Physical Education"]
+  },
+  {
+    "student_id": 6,
+    "name": "Frank Wilson",
+    "age": 23,
+    "grade": "A",
+    "courses": ["Physics", "Chemistry", "Math"]
+  },
+  {
+    "student_id": 7,
+    "name": "Grace Taylor",
+    "age": 20,
+    "grade": "B-",
+    "courses": ["History", "Political Science", "English"]
+  },
+  {
+    "student_id": 8,
+    "name": "Henry Anderson",
+    "age": 22,
+    "grade": "C+",
+    "courses": ["Computer Science", "Psychology", "Sociology"]
+  },
+  {
+    "student_id": 9,
+    "name": "Ivy White",
+    "age": 21,
+    "grade": "A+",
+    "courses": ["Biology", "Statistics", "Economics"]
+  },
+  {
+    "student_id": 10,
+    "name": "Jack Miller",
+    "age": 19,
+    "grade": "B",
+    "courses": ["Art", "Music", "Physical Education"]
+  },
+  {
+    "student_id": 11,
+    "name": "Katherine Davis",
+    "age": 20,
+    "grade": "A",
+    "courses": ["Math", "English", "History"]
+  },
+  {
+    "student_id": 12,
+    "name": "Leo Smith",
+    "age": 21,
+    "grade": "B+",
+    "courses": ["Biology", "Chemistry", "Physics"]
+  },
+  {
+    "student_id": 13,
+    "name": "Mia Brown",
+    "age": 22,
+    "grade": "A-",
+    "courses": ["Computer Science", "Statistics", "Psychology"]
+  },
+  {
+    "student_id": 14,
+    "name": "Nathan Miller",
+    "age": 20,
+    "grade": "B",
+    "courses": ["Economics", "Political Science", "Sociology"]
+  },
+  {
+    "student_id": 15,
+    "name": "Olivia Davis",
+    "age": 23,
+    "grade": "B+",
+    "courses": ["Art", "Music", "Physical Education"]
+  },
+  {
+    "student_id": 16,
+    "name": "Peter Wilson",
+    "age": 20,
+    "grade": "A",
+    "courses": ["Physics", "Chemistry", "Math"]
+  },
+  {
+    "student_id": 17,
+    "name": "Quinn Taylor",
+    "age": 21,
+    "grade": "B-",
+    "courses": ["History", "Political Science", "English"]
+  },
+  {
+    "student_id": 18,
+    "name": "Rachel Anderson",
+    "age": 22,
+    "grade": "C+",
+    "courses": ["Computer Science", "Psychology", "Sociology"]
+  },
+  {
+    "student_id": 19,
+    "name": "Sam White",
+    "age": 19,
+    "grade": "A+",
+    "courses": ["Biology", "Statistics", "Economics"]
+  },
+  {
+    "student_id": 20,
+    "name": "Tom Miller",
+    "age": 20,
+    "grade": "B",
+    "courses": ["Art", "Music", "Physical Education"]
+  }
+]
